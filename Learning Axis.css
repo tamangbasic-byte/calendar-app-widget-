@@ -12,8 +12,9 @@ body {
     box-shadow: 0 0 30px #222222;
     overflow: hidden;
     width: 300px;
-    color: purple;
+    color: gold;
     padding: 20px;
+    text-align: center;
     
 }
 .header{
@@ -25,4 +26,3 @@ body {
 .btn{
     cursor: pointer;
 }
-
